@@ -1,0 +1,10 @@
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\bin\Debug\Shorouq Academy.exe.config
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\bin\Debug\Shorouq Academy.exe
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\bin\Debug\Shorouq Academy.pdb
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq Academy.csprojAssemblyReference.cache
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq_Academy.Form1.resources
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq_Academy.Properties.Resources.resources
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq Academy.csproj.GenerateResource.cache
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq Academy.csproj.CoreCompileInputs.cache
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq Academy.exe
+C:\Users\3essmatss\source\repos\Shorouq Academy\Shorouq Academy\obj\Debug\Shorouq Academy.pdb
